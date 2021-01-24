@@ -1,0 +1,2 @@
+*/1 * * * * /usr/bin/pgrep python3 || /usr/bin/python3 /home/app2/bot2.py
+*/1 * * * * /usr/bin/pgrep java || /usr/bin/java -jar /var/www/www-root/data/www/alidala.com/alidala/target/alidala-0.0.1-SNAPSHOT.jar                                                                                             
